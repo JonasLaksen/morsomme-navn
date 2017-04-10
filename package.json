@@ -1,0 +1,15 @@
+{
+  "name": "morsomme-navn",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "shortid": "^2.2.8"
+  }
+}
